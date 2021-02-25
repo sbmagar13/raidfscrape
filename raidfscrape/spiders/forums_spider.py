@@ -1,7 +1,7 @@
 import scrapy
 from raidfscrape.items import RaidfScrapeItem, AuthorScrapeItem
 
-API_KEY = 'cfbf82b1ab2b384aa1b5582a4fc5a6b9'
+API_KEY = 'YOUR_API_KEY'
 
 
 class ThreadsSpider(scrapy.Spider):
